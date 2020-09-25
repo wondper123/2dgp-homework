@@ -1,6 +1,7 @@
 # 게임 소개
 ## 1.제목: 1945 strikers
-## 2.게임 정보 및 스크린 샷:
+## 2.게임 정보 및 스크린 샷:![로비](https://resource.appgamer.com/library/640w/2015/142863299701.jpg)
+![인게임](https://steamcdn-a.akamaihd.net/steam/apps/1279380/ss_0f68224ab2697c101a4a02e662cb740ac09dfc16.600x338.jpg?t=1593764038)
 ## 3.게임의 목적, 방법, 설명: 종스크롤 탄막슈팅게임으로 적의 탄막을 피하며 내 탄막은 적에게 맞추며 stage를 클리어해나가는 방식이다.
 # Gamestate
 ## 1.any keydown start state
