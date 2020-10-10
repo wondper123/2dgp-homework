@@ -27,7 +27,7 @@
 ## 4.다음 장면으로 넘어가는 방법이나 조건: 키보드 방향키로 비행기 종류를 선택하고 엔터키로 최종적으로 비행기를 고르면 넘어간다.
 # game state
 ## 1.한 줄 설명: 탄막 슈팅게임이 진행되는 게임 스테이트이다.
-## 2.필요한 객체: enemy, my_plane, Boss, bullet
+## 2.필요한 객체: enemy, my_plane, My_bullet, item, enemy_bullet, Background_image
 ## 3.이벤트 종류: 키보드 이벤트
 ## 4.다음 장면으로 넘어가는 방법이나 조건: 게임을 클리어하거나 esc키를 눌러 in game menu로 이동한다.
 ## ps) state별 또는 객체별 세분화가 이루어질 수 있다.
