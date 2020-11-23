@@ -111,4 +111,4 @@
 |bullet|player bullet만 처리중, enemy bullet 추가 구현 예정|
 |player|player의 움직임 관리|
 # commit
-1주차 이후 본격적인 commit이 없었음. 이후 commit관련 오류가 떴는지 안되는 상황입니다. 이후 추가 commit하겠습니다.
+1주차 이후 본격적인 commit이 없었음. 이후 commit관련 오류가 떴는지 안되는 상황입니다. 이후 추가 commit하겠습니다. 본격적인 개발은 6주차부터 이루어졌습니다.
